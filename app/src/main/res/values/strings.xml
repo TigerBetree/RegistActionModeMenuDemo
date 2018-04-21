@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RegistActionModeMenuDemo</string>
+
+    <string name="action_mode_menu">自定义菜单</string>
+</resources>
